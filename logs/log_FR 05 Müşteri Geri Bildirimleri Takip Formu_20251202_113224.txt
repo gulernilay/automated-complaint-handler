@@ -1,0 +1,22 @@
+2025-12-02 11:32:24,679 - INFO - 📂 Excel işleme başlıyor: Z:\KALITE GUVENCE\yapay zeka\FR 05 Müşteri Geri Bildirimleri Takip Formu.xlsx
+2025-12-02 11:32:24,684 - INFO - 🔒 Dosya kilitli, 1. deneme... Hata: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-12-02 11:32:26,693 - INFO - 🔒 Dosya kilitli, 2. deneme... Hata: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-12-02 11:32:28,699 - INFO - 🔒 Dosya kilitli, 3. deneme... Hata: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-12-02 11:32:30,706 - INFO - 🔒 Dosya kilitli, 4. deneme... Hata: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-12-02 11:32:32,713 - INFO - 🔒 Dosya kilitli, 5. deneme... Hata: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-12-02 11:32:34,714 - INFO - ❌ Dosya sürekli kilitli kaldı, işlem iptal edildi.
+2025-12-02 11:33:25,307 - INFO - ⚠ Geçici Excel dosyası algılandı, işlem yapılmadı.
+2025-12-02 11:33:25,318 - INFO - ⚠ Geçici Excel dosyası algılandı, işlem yapılmadı.
+2025-12-02 11:33:25,327 - INFO - ⚠ Geçici Excel dosyası algılandı, işlem yapılmadı.
+2025-12-02 11:33:25,338 - INFO - ⚠ Geçici Excel dosyası algılandı, işlem yapılmadı.
+2025-12-02 11:33:25,354 - INFO - ⚠ Geçici Excel dosyası algılandı, işlem yapılmadı.
+2025-12-02 11:33:25,456 - INFO - ⚠ Geçici Excel dosyası algılandı, işlem yapılmadı.
+2025-12-02 11:33:32,857 - INFO - ⚠ Geçici Excel dosyası algılandı, işlem yapılmadı.
+2025-12-02 11:33:32,895 - INFO - ⚠ Geçici Excel dosyası algılandı, işlem yapılmadı.
+2025-12-02 11:33:32,909 - INFO - ⚠ Geçici Excel dosyası algılandı, işlem yapılmadı.
+2025-12-02 11:33:32,936 - INFO - ⚠ Geçici Excel dosyası algılandı, işlem yapılmadı.
+2025-12-02 11:33:59,500 - INFO - 📥 Excel değişiklik algılandı: Z:\KALITE GUVENCE\yapay zeka\FR 05 Müşteri Geri Bildirimleri Takip Formu.xlsx
+2025-12-02 11:33:59,501 - INFO - ⏳ Kullanıcının Excel işlemini tamamlaması için bekleniyor...
+2025-12-02 11:33:59,581 - INFO - 📥 Excel değişiklik algılandı: Z:\KALITE GUVENCE\yapay zeka\FR 05 Müşteri Geri Bildirimleri Takip Formu.xlsx
+2025-12-02 11:33:59,581 - INFO - ⏳ Kullanıcının Excel işlemini tamamlaması için bekleniyor...
+2025-12-02 11:34:01,845 - INFO - ⚠ Geçici Excel dosyası algılandı, işlem yapılmadı.

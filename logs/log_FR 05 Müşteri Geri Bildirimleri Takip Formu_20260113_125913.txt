@@ -1,0 +1,42 @@
+2026-01-13 12:59:13,777 - INFO - \U0001f4c2 Excel iþleme baþlýyor: \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka\FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 12:59:15,183 - INFO - \U0001f4c4 Excel'den okunan satýr sayýsý: 302 (ilk 2 satýr atlandý)
+2026-01-13 12:59:18,264 - INFO - Toplam satýr iþlendi: 302
+2026-01-13 12:59:18,264 - INFO - Yeni eklenen þikayet sayýsý: 2
+2026-01-13 12:59:21,575 - INFO - \U0001f4e7 Mail gönderildi.
+2026-01-13 12:59:23,797 - INFO - \U0001f4e7 Mail gönderildi.
+2026-01-13 13:04:17,364 - INFO - \U0001f7e1 Event alýndý: created - \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka\~$FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:17,366 - INFO - \U0001f4c4 Dosya adý: ~$FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:17,370 - INFO - \u26a0 Geçici Excel dosyasý \u2192 iþlem yok.
+2026-01-13 13:04:17,373 - INFO - \U0001f7e1 Event alýndý: modified - \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka
+2026-01-13 13:04:17,373 - INFO - \u27a1 Dizin olayý, atlandý.
+2026-01-13 13:04:18,416 - INFO - \U0001f7e1 Event alýndý: deleted - \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka\~$FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:18,418 - INFO - \U0001f4c4 Dosya adý: ~$FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:18,418 - INFO - \u26a0 Geçici Excel dosyasý \u2192 iþlem yok.
+2026-01-13 13:04:18,420 - INFO - \U0001f7e1 Event alýndý: modified - \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka
+2026-01-13 13:04:18,420 - INFO - \u27a1 Dizin olayý, atlandý.
+2026-01-13 13:04:24,677 - INFO - \U0001f7e1 Event alýndý: created - \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka\~$FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:24,677 - INFO - \U0001f4c4 Dosya adý: ~$FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:24,677 - INFO - \u26a0 Geçici Excel dosyasý \u2192 iþlem yok.
+2026-01-13 13:04:24,677 - INFO - \U0001f7e1 Event alýndý: modified - \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka
+2026-01-13 13:04:24,677 - INFO - \u27a1 Dizin olayý, atlandý.
+2026-01-13 13:04:47,862 - INFO - \U0001f7e1 Event alýndý: deleted - \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka\FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:47,862 - INFO - \U0001f4c4 Dosya adý: FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:47,862 - INFO - \U0001f4e5 GERÇEK Excel deðiþti: FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:47,862 - INFO - \U0001f6d1 Timer iptal edildi
+2026-01-13 13:04:47,862 - INFO - \U0001f4cc Ýþlenecek dosya: \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka\FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:47,862 - INFO - \u23f3 Timer baþlýyor (1 dakika)...
+2026-01-13 13:04:47,874 - INFO - \u23f3 Kullanýcý kaydetme iþlemini bitirsin diye bekleniyor.
+2026-01-13 13:04:47,874 - INFO - \U0001f7e1 Event alýndý: created - \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka\FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:47,874 - INFO - \U0001f4c4 Dosya adý: FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:47,874 - INFO - \U0001f4e5 GERÇEK Excel deðiþti: FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:47,874 - INFO - \U0001f6d1 Timer iptal edildi
+2026-01-13 13:04:47,874 - INFO - \U0001f4cc Ýþlenecek dosya: \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka\FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:47,874 - INFO - \u23f3 Timer baþlýyor (1 dakika)...
+2026-01-13 13:04:47,878 - INFO - \u23f3 Kullanýcý kaydetme iþlemini bitirsin diye bekleniyor.
+2026-01-13 13:04:47,878 - INFO - \U0001f7e1 Event alýndý: modified - \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka
+2026-01-13 13:04:47,880 - INFO - \u27a1 Dizin olayý, atlandý.
+2026-01-13 13:04:48,912 - INFO - \U0001f7e1 Event alýndý: deleted - \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka\~$FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:48,912 - INFO - \U0001f4c4 Dosya adý: ~$FR 05 Müþteri Geri Bildirimleri Takip Formu.xlsx
+2026-01-13 13:04:48,912 - INFO - \u26a0 Geçici Excel dosyasý \u2192 iþlem yok.
+2026-01-13 13:04:49,946 - INFO - \U0001f7e1 Event alýndý: modified - \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka
+2026-01-13 13:04:49,946 - INFO - \u27a1 Dizin olayý, atlandý.

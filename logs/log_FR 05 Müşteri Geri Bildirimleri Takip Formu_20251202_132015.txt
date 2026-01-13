@@ -1,0 +1,7 @@
+2025-12-02 13:20:15,331 - INFO - 📂 Excel işleme başlıyor: \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka\FR 05 Müşteri Geri Bildirimleri Takip Formu.xlsx
+2025-12-02 13:20:15,340 - INFO - 🔒 Dosya kilitli, 1. deneme... Hata: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-12-02 13:20:17,346 - INFO - 🔒 Dosya kilitli, 2. deneme... Hata: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-12-02 13:20:19,352 - INFO - 🔒 Dosya kilitli, 3. deneme... Hata: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-12-02 13:20:21,358 - INFO - 🔒 Dosya kilitli, 4. deneme... Hata: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-12-02 13:20:23,363 - INFO - 🔒 Dosya kilitli, 5. deneme... Hata: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-12-02 13:20:25,364 - INFO - ❌ Dosya sürekli kilitli kaldı, işlem iptal edildi.

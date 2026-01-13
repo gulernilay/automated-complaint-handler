@@ -1,0 +1,5 @@
+2025-12-02 13:26:26,908 - INFO - 📂 Excel işleme başlıyor: \\192.168.2.212\ofisdata\KALITE GUVENCE\yapay zeka\FR 05 Müşteri Geri Bildirimleri Takip Formu.xlsx
+2025-12-02 13:26:27,967 - INFO - 📄 Excel'den okunan satır sayısı: 299 (ilk 2 satır atlandı)
+2025-12-02 13:26:30,924 - INFO - Toplam satır işlendi: 299
+2025-12-02 13:26:30,924 - INFO - Yeni eklenen şikayet sayısı: 1
+2025-12-02 13:26:32,836 - INFO - 📧 Mail gönderildi.
